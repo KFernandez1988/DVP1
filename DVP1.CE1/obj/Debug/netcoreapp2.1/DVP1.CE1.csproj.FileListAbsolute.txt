@@ -1,0 +1,11 @@
+\\vmware-host\Shared Folders\Desktop\DVP1.CE1\DVP1.CE1\bin\Debug\netcoreapp2.1\DVP1.CE1.deps.json
+\\vmware-host\Shared Folders\Desktop\DVP1.CE1\DVP1.CE1\bin\Debug\netcoreapp2.1\DVP1.CE1.runtimeconfig.json
+\\vmware-host\Shared Folders\Desktop\DVP1.CE1\DVP1.CE1\bin\Debug\netcoreapp2.1\DVP1.CE1.runtimeconfig.dev.json
+\\vmware-host\Shared Folders\Desktop\DVP1.CE1\DVP1.CE1\bin\Debug\netcoreapp2.1\DVP1.CE1.dll
+\\vmware-host\Shared Folders\Desktop\DVP1.CE1\DVP1.CE1\bin\Debug\netcoreapp2.1\DVP1.CE1.pdb
+\\vmware-host\Shared Folders\Desktop\DVP1.CE1\DVP1.CE1\obj\Debug\netcoreapp2.1\DVP1.CE1.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\DVP1.CE1\DVP1.CE1\obj\Debug\netcoreapp2.1\DVP1.CE1.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\DVP1.CE1\DVP1.CE1\obj\Debug\netcoreapp2.1\DVP1.CE1.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\Desktop\DVP1.CE1\DVP1.CE1\obj\Debug\netcoreapp2.1\DVP1.CE1.AssemblyInfo.cs
+\\vmware-host\Shared Folders\Desktop\DVP1.CE1\DVP1.CE1\obj\Debug\netcoreapp2.1\DVP1.CE1.dll
+\\vmware-host\Shared Folders\Desktop\DVP1.CE1\DVP1.CE1\obj\Debug\netcoreapp2.1\DVP1.CE1.pdb
