@@ -14,14 +14,16 @@ namespace DVP1.CE1
         //Make this method return a sentence in backward completly
         public void SetBackwards(string sentence)
         {
-
-
-
+    
+          string[]  arraySentence = sentence.Split(' ');
+          Array.Reverse(arraySentence);
+          sentence = string.Join(" ", arraySentence);
+            Console.WriteLine(sentence);
         }
 
         public bool Validation(string sentence)
         {
-            return false;
+            return true;
         }
     }
     
